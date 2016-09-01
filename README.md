@@ -1,5 +1,5 @@
 # Express-Es6-starter
 
 
-npm install
-npm test
+* npm install
+* npm test
